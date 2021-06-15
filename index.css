@@ -1,0 +1,14 @@
+.d-block {
+  height: 90vh;
+}
+#our-cards {
+  margin-top: 20vh;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+
+.card {
+    margin-top: 10vh;
+}
